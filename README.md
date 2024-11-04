@@ -1,4 +1,3 @@
-Here's a README file template for your stock price prediction app repository:
 
 ---
 
@@ -25,7 +24,7 @@ This Flask-based web application uses a trained LSTM model to predict stock pric
 ![Stock Price Prediction Demo](https://github.com/user-attachments/assets/022efa24-9291-46fd-9eef-cfbf8f2c0842)
 
 
-##  ##App prediction:
+## App prediction:
 
 ![image](https://github.com/user-attachments/assets/1c3981da-df1e-43b2-b03e-8587e7ff138d)
 
